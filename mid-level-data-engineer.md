@@ -86,6 +86,8 @@ Provide a simple README.md with the following:
 
 Push your code to a public GitHub repository or send it as a zipped folder with:
 
+
+```
 ├── data/
 │   ├── raw/
 │   └── processed/
@@ -97,7 +99,7 @@ Push your code to a public GitHub repository or send it as a zipped folder with:
 ├── geo/
 │   └── wells_by_county.csv
 ├── README.md
-
+```
 
 ⸻
 
