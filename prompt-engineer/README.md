@@ -21,7 +21,7 @@ Build a TypeScript/Node.js application with the following requirements:
 ### Functional Requirements
 
 - Accept CSV file upload containing bank statement data
-- Parse the CSV and send it to OpenAI's API (GPT-4 or GPT-3.5-turbo)
+- Parse the CSV and send it to OpenAI's API 
 - Return the AI-generated analysis as JSON
 - Handle errors gracefully
 
