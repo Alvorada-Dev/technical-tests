@@ -144,7 +144,7 @@ You may modify or replace the starter code entirely.
 
 ## Time Limit
 
-**4 hours**
+This assessment is designed to be completed in **4 hours**, though treat this as a guideline rather than a strict requirement.
 
 Focus on a working deployment. A functional API with basic features is better than incomplete advanced features.
 
