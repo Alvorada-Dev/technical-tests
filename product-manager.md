@@ -57,9 +57,6 @@ Your response might include:
 - How you prioritize
 - How you define success
 - How you align teams
-- How you manage tradeoffs
-- How you ensure learning while shipping
-- How you balance speed and scale
 
 We are not looking for a fixed format.
 
